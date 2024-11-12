@@ -1,2 +1,3 @@
-# Precurso-Henry
-Este es un repositorio del Modulo2 del pre curso de Henry 
+prueba de como crear un repositorio y clonarlo desde githhub a mi computadora
+
+
